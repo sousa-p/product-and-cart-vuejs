@@ -1,4 +1,7 @@
-# product-and-cart
+> # Product and cart
+Project to learn Vue.js framework, following this course of freeCodeCamp.org: 
+https://youtu.be/FXpIoQ_rT_c
+
 
 ## Project setup
 ```
